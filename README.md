@@ -7,8 +7,8 @@ https://www.continuum.io/downloads
   
 Use python >3.6
   
-Pip install the dependencies:  
-* loompy  
+`pip install` the dependencies:  
+* [loompy](http://linnarssonlab.org/loompy/)  
 * pandas  
 * numpy  
 * matplotlib  
