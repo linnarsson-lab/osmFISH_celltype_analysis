@@ -2,8 +2,7 @@
 Notebook to perform the clustering, region classification and spatial analysis of the osmFISH cortex dataset.
 
 ## Requirements
-Install Anaconda:
-https://www.continuum.io/downloads  
+Install [Anaconda](https://www.continuum.io/downloads):  
   
 Use python >3.6
   
