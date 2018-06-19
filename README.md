@@ -20,4 +20,5 @@ Use python >3.6
 * Download/Clone the sourcecode
 * Move to the folder `cd osmFISH_celltype_analysis`
 * Run jupyter notebook `jupyter notebook`
+* Make sure the path to the .loom file is correct
 * Run the notebook
