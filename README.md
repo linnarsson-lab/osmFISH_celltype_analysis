@@ -17,8 +17,8 @@ Use python >3.6
 * networkx  
 
 ## Get started
-* Download/Clone the sourcecode
+* Download/Clone the source code
 * Move to the folder `cd osmFISH_celltype_analysis`
 * Run jupyter notebook `jupyter notebook`
-* Make sure the path to the .loom file is correct
+* Make sure the path to the `.loom` file is correct
 * Run the notebook
